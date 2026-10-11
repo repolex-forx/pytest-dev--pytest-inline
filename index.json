@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-inline",
+  "versions": [
+    {
+      "commit": "dbc8cb0bb4b005311cc408ba12abd8104b05c313",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:56:53.956570+00:00"
+    }
+  ]
+}
